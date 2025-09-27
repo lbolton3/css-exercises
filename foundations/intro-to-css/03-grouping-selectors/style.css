@@ -1,0 +1,17 @@
+.opposite,
+.adjacent{
+    font-family: Helvetica;
+    font-size: 28px;
+}
+
+.opposite{
+    background-color: black;
+    color:white;
+}
+
+
+.adjacent{
+    background-color: yellow;
+}
+
+
